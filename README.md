@@ -11,7 +11,7 @@
 
 ## Details
 
-### The Premise
+### The Premise1337
 
 You are creating a simple fullstack app to view the candies in your goodie bag. Yum! The requirements provided outline what we would like you to accomplish, but feel free to branch out and add more functionality if you wish.
 
